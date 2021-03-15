@@ -138,6 +138,6 @@ So it doesn't appear that we have any concrete leads to go on. Still, I will be 
 
 Recording ends.
 
-[\[Next\] WIP](./mag002-en.md)
+[\[Next\] WIP](./404.md)
 
 [Main](./README.md)
